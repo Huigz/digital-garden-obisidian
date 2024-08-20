@@ -15,13 +15,14 @@
 因此，哈贝马斯以**劳动** 和 **互动** 作为理论基础，术语上，其使用[目的理性行为](#目的理性行为)
 和[沟通行为](#沟通行为)区分这两种基础。
 
-### 目的理性行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">목적합리성 행위</small>
+### 目的理性行为
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">목적합리성 행위</small>
 
 哈贝马斯将目的理性行为区分为两种
 
-1. 工具性行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">도구적 행위</small> Instrumental action
+1. 工具性行为 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">도구적 행위</small> Instrumental action
 	- **单一行动者**理性的计算<u>达到既定目标的最佳方式</u>
-2. 策略性行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">전략적 행위</small> strategic action
+2. 策略性行为 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">전략적 행위</small> strategic action
 	- **两个以上个体**在追逐目标时<u>对目的理性进行的协调</u>
 
 这两种行为的目的：都是**工具性**的掌控，其终点是**达成目标**
@@ -34,7 +35,8 @@
 
 哈贝马斯认为，矫正目的理性问题的方法在于[沟通的理性化](#沟通的理性化)
 
-### 沟通行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">의사소통 행위</small>
+### 沟通行为 
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">의사소통 행위</small>
 
 - 沟通行为中，参与者们首先不是以自己的成功为取向；
 - 个人目标的追求要**根据一般情景定义**使他们行动计划达成**一致**。
@@ -50,7 +52,7 @@
 > - 哈贝马斯以 ==”未经扭曲，不带强制的沟通“== 作为沟通的基准线。
 
 
-哈贝马斯以这条基准线批判现代社会 **失真的沟通** <small style="background-color:black;color:white;padding:3px;border-radius:5px">왜곡된 의사소통</small>。
+哈贝马斯以这条基准线批判现代社会 **失真的沟通** <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">왜곡된 의사소통</small>。
 
 而基准线并不仅仅起到了对比的作用，他也是马克思和哈贝马斯的政治目标。
 
@@ -62,7 +64,7 @@
 
 #### 沟通的理性化 
 
-区别于目的理性，沟通理性<small style="background-color:black;color:white;padding:3px;border-radius:5px">의사소통 합리성</small>是一种**双向互动** 的 **互为主体**的沟通形式。
+区别于目的理性，沟通理性<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">의사소통 합리성</small>是一种**双向互动** 的 **互为主体**的沟通形式。
 
 > 有效性主张称为讨论的唯一目标，参与者，主题所做的贡献都应不受限制，除非更好的论证，这里不会存在任何其他的力量；除了合作以寻求真理，所有的动机都应排除在外。
 
@@ -72,7 +74,8 @@
 
 在社会规范的角度来说，沟通理性化降低了规范的压迫性和刚性，从而提高个体的灵活性与反身性。
 
-#####  公论场 <small style="background-color:black;color:white;padding:3px;border-radius:5px">공론장</small>
+#####  公论场 
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">공론장</small>
 
 
 哈贝马斯将 “通过对社会问题的合理讨论达成共识，形成舆论的公共讨论场” 称为 **公论场** ，公论场是民主过程的必要基础。
@@ -81,9 +84,10 @@
 
 ## 系统与生活世界 
 
-系统<small style="background-color:black;color:white;padding:3px;border-radius:5px">체계</small>和生活世界<small style="background-color:black;color:white;padding:3px;border-radius:5px">생활세계</small>指看待社会不同方式，而非不同社会。
+系统<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">체계</small>和生活世界<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">생활세계</small>指看待社会不同方式，而非不同社会。
 
 ### 生活世界
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">생활세계</small>
 
 此概念源于现象学社会学，对哈贝马斯来说，
 
@@ -103,6 +107,7 @@
 其次，哈贝马斯认为，生活世界的理性化意味着**其中各要素的分化**， 即<u>“文化，社会，人格” </u> 的分化。
 
 ### 系统
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">체계</small>
 
 与[[#生活世界]]相反，系统代表着外部视角，即：
 
