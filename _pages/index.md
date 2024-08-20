@@ -5,20 +5,31 @@ id: home
 permalink: /
 ---
 
-# Welcome! This is a wiki about Sociology theories 🌱
+# Welcome! This is Sociology Theories Garden 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  这里包含了 社会学理论 以及其 专有名词的韩语对照 翻译<br>
-  并且，本网站启用了 <span style="font-weight: bold">双向链接</span> 技术， 您可以轻松发现各理论，知识条目之间的关联。
+  这里包含了 主要的现代，古典社会学理论 并标识了 专有名词的韩语版本<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">한국어 버전</small> 翻译<br>
+  并且，本网站启用了 <span style="font-weight: bold">双向链接</span> 技术， 您可以点击链接跳转到各词条的详情部分，轻松发现各理论，知识条目之间的关联。
 </p>
 
 
 
-<strong>Recently updated notes</strong>
+<strong>古典社会学理论</strong><small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">고전사회학 이론</small>
 
 <ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
+  {% assign classical_notes = site.notes | where_exp: "item", "item.path contains '/Classical'" | sort: "last_modified_at" | reverse %}
+  {% for note in classical_notes limit: 10 %}
+    <li>
+      <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<strong>现代社会学理论</strong><small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">현대사회학 이론</small>
+
+<ul>
+  {% assign classical_notes = site.notes | where_exp: "item", "item.path contains '/Temporary'" | sort: "last_modified_at" | reverse %}
+  {% for note in classical_notes limit: 10 %}
     <li>
       <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
