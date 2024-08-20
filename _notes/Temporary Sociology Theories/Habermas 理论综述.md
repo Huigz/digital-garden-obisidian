@@ -15,19 +15,18 @@
 因此，哈贝马斯以**劳动** 和 **互动** 作为理论基础，术语上，其使用[目的理性行为](#目的理性行为)
 和[沟通行为](#沟通行为)区分这两种基础。
 
-### 目的理性行为 {% include tag.html tag="목적합리성 행위" %}
+### 目的理性行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">목적합리성 행위</small>
 
 哈贝马斯将目的理性行为区分为两种
 
-1. 工具性行为 Instrumental action
-	- **单一行动者**理性的计算达到既定目标的最佳方式
-2. 策略性行为 strategic action
-	- **两个以上个体**在追逐目标时对目的理性进行的==协调==
+1. 工具性行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">도구적 행위</small> Instrumental action
+	- **单一行动者**理性的计算<u>达到既定目标的最佳方式</u>
+2. 策略性行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">전략적 행위</small> strategic action
+	- **两个以上个体**在追逐目标时<u>对目的理性进行的协调</u>
 
-这两种行为的目的：<u>都是工具性的掌控</u>，其终点是<u>达成目标</u>
+这两种行为的目的：都是**工具性**的掌控，其终点是**达成目标**
 
-
-而这种理性其带来了现代社会的理性化问题，同Weber和Marx提出的对目的理性形式的批判
+哈贝马斯与[[Weber 理论综述|Weber]]和[[Karl Marx 理论综述|Marx]]提出的**对目的理性形式的批判**相同，认为这两种理性带来了现代社会的理性化问题。
 
 > 这种理性化形式使得生产力得以增长并强化了**科技对生活的控制**。
 
@@ -35,10 +34,10 @@
 
 哈贝马斯认为，矫正目的理性问题的方法在于[沟通的理性化](#沟通的理性化)
 
-### 沟通行为
+### 沟通行为 <small style="background-color:black;color:white;padding:3px;border-radius:5px">의사소통 행위</small>
 
 - 沟通行为中，参与者们首先不是以自己的成功为取向；
-- 个人目标的追求要根据**一般情景定义**使他们行动计划达成**一致**。
+- 个人目标的追求要**根据一般情景定义**使他们行动计划达成**一致**。
 
 > 即沟通行为的目标是，沟通上的**理解**。
 
@@ -51,7 +50,7 @@
 > - 哈贝马斯以 ==”未经扭曲，不带强制的沟通“== 作为沟通的基准线。
 
 
-哈贝马斯以这条基准线批判现代社会 **失真的沟通**。
+哈贝马斯以这条基准线批判现代社会 **失真的沟通** <small style="background-color:black;color:white;padding:3px;border-radius:5px">왜곡된 의사소통</small>。
 
 而基准线并不仅仅起到了对比的作用，他也是马克思和哈贝马斯的政治目标。
 
@@ -61,9 +60,9 @@
 - 哈贝马斯
 	- 其希望实现一个没有扭曲的沟通（失真沟通）的社会 --[沟通理性化](#沟通理性化)的社会
 
-#### 沟通的理性化
+#### 沟通的理性化 
 
-区别于目的理性，沟通理性是一种**双向互动** 的 **互为主体**的沟通形式。
+区别于目的理性，沟通理性<small style="background-color:black;color:white;padding:3px;border-radius:5px">의사소통 합리성</small>是一种**双向互动** 的 **互为主体**的沟通形式。
 
 > 有效性主张称为讨论的唯一目标，参与者，主题所做的贡献都应不受限制，除非更好的论证，这里不会存在任何其他的力量；除了合作以寻求真理，所有的动机都应排除在外。
 
@@ -73,15 +72,16 @@
 
 在社会规范的角度来说，沟通理性化降低了规范的压迫性和刚性，从而提高个体的灵活性与反身性。
 
-#####  公论场 공론장
+#####  公论场 <small style="background-color:black;color:white;padding:3px;border-radius:5px">공론장</small>
+
 
 哈贝马斯将 “通过对社会问题的合理讨论达成共识，形成舆论的公共讨论场” 称为 **公论场** ，公论场是民主过程的必要基础。
 
 > 공론장은 중요한 사회적 이슈가 합리적으로 토의되고 이를 통해 그에 대한 합의에 도달하고 여론이 형성되는 공적 논쟁의 장으로서 민주적 과정에 필수적인 것이다. 
 
-## 系统与生活世界
+## 系统与生活世界 
 
-系统和生活世界指看待社会不同方式，而非不同社会。
+系统<small style="background-color:black;color:white;padding:3px;border-radius:5px">체계</small>和生活世界<small style="background-color:black;color:white;padding:3px;border-radius:5px">생활세계</small>指看待社会不同方式，而非不同社会。
 
 ### 生活世界
 
