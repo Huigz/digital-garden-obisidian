@@ -132,20 +132,24 @@
 
 ### 理性的类型
 
-1. 实践理性
+📝 <small>Max Weber's Types of Rationality: Cornerstones for the Analysis of Rationalization Processes in History Author(s): Stephen Kalberg Source: The American Journal of Sociology, Vol. 85, No. 5 (Mar., 1980), pp. 1145-1179</small>
+
+1. 实践理性 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Practical Rationality</small>
 	- 看待和判断与*个体纯粹的实用主义和利己主义利益相关的世俗活动* 的各种生活方式
-2. 理论理性
+2. 理论理性 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Theoretical Rationality</small>
 	- 通过越来越 *抽象的概念* 而非行动来把握现实的认知性努力，如 *逻辑演绎，归纳，因果归因等抽象认知过程* 。
-3. **[[#实质理性]]**
-4. **[[#形式理性]]**
+3. **[[#实质理性]]** <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Substantive Rationality</small>
+4. **[[#形式理性]]** <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Formal Rationality</small>
 
 ### 实质理性
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Substantive Rationality</small>
 
 类似实践理性，直接将行动安排进一套价值中。
 
 > 涉及在<u>一定价值体系中</u>选择 **达到目的的手段**。
 
 ### 形式理性
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Formal Rationality</small>
 
 与实践理性相比，**实践理性**与<u>个体实用主义，利己主义</u>相关，而**形式理性**与==普遍使用的规则，法律，法规==相关。
 
