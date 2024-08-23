@@ -24,13 +24,15 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 
 在感知，理解，评估社会世界的过程中，人们被赋予了一系列的**内在图式**。通过这些图式人们才能创造出他们的[[#实践]]。
 
-我们可以将惯习视作 ==社会世界的内在化与具体化==，
+我们可以将惯习视作 ==社会世界的内在化与具体化==。
+
+#### 惯习作为集体现象
 
 同时，惯习也可以视为一种**集体现象**， 其帮助人们理解社会世界。
 
 <div style="background-color:rgba(166, 177, 247,0.4);padding:20px;border-radius:5px"><span>💡</span><br><p>惯习接近常识，如反应着年龄，性别，社会阶层等结构中的客观分野。 其取决于不同个体所属世界的地位属性。具有相似位置地位的个体拥有相似的惯习</p></div>
 
-##### 滞后的惯习
+#### 来源于集体历史的惯习
 
 > 在某个既定时间点的惯习是在**集体历史过程中产生**的
 
@@ -40,16 +42,23 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 
 <div style="background-color:rgba(166, 177, 247,0.4);padding:20px;border-radius:5px"><span>💡</span><br><p>出身于某农业社会的个体无法适应华尔街的工作，因为其在 前资本主义社会 形成的惯习 无法有效的帮助其适应新的生活</p></div>
 
-### 构成中的结构
-<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small>
+### 构成中的结构与被结构的结构
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small> & <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structured structure</small>
 
-[[#惯习]]可以创造社会世界，也可以被社会世界所创造， 布迪厄将[[#惯习]]视为一种 “构成中的结构”， 其是 **“外部性的内部化”** 以及 **“内部的外部化”** 的辩证。
+[[#惯习]]可以创造社会世界，也可以被社会世界所创造：
 
-而[[#实践]]作为[[#惯习]]与**社会世界**间的媒介，其实现了[[#惯习]]与**社会世界**间的双向作用。
 
-### 作为媒介的实践
+其中，以社会结构对个体的社会化视角来看，个体通过反复[[#实践]]，吸收模仿社会规范，价值。 这种社会化过程即 [[#惯习]]被社会世界所创造，其是 ==外部性的内部化== 的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structured structure</small>
 
-- 实践是社会世界的体现
-- 实践作为惯习的表达
+而同时，[[#惯习]]又通过[[#实践]]，在生产着社会结构，即[[#惯习]]创造社会世界，其是==内部性的外部化==的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small>
+
+[[#实践]]作为[[#惯习]]与**社会世界**间的媒介，其实现了[[#惯习]]与**社会世界**间的双向作用。
+
+## 场域
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">field</small>
+
+场域的本质是**关系**而**非结构**，其代表**社会生活**中的某个**子空间**， 由**相对独立的**规则，惯例，权力关系，目标等构成。同时他也是一个**竞争型市场**，通过调用各种类型的**资本**， 个体与群体在其中为争夺稀缺资源而斗争。
+
+
 
 
