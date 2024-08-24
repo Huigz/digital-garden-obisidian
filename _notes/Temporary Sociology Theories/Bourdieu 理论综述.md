@@ -12,10 +12,15 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 
 为了避免陷入主观与客观主义的对立中，布迪厄将关注点放在了其眼中 **能动**与**结构**辩证关系的结果：[[#实践]] <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">practice</small> 上
 
-##### 实践
+#### 实践
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">practice</small>
 
 实践指：个体对于**自然或社会世界**的**行动**
+
+#### 社会世界
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Social World</small>
+
+符号互动论的术语，其大多指涉通过**共同符号，组织，活动**产生的**文化领域**的某种**话语体系**
 
 ## 惯习 
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">habitus</small>
@@ -45,7 +50,7 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 ### 构成中的结构与被结构的结构
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small> & <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structured structure</small>
 
-[[#惯习]]可以创造社会世界，也可以被社会世界所创造：
+[[#惯习]]可以创造[[#社会世界]]，也可以被[[#社会世界]]所创造：
 
 ![[Pasted image 20240824232050.png]]
 
@@ -53,10 +58,19 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 
 而同时，[[#惯习]]又通过[[#实践]]，再生产着，创造着社会世界，其是==内部性的外部化==的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small>
 
+需要注意的是，在惯习与实践的关系中，其并非单方面的惯习对实践的支配关系，而是一种**选择倾向**，这表现了布迪厄对**行动者的能动性**的关心。
+
+（依据[[#惯习作为集体现象]]， 惯习也可以视为一种由相似地位个体组成的近似心理认知结构，因此实践作为惯习的构成）
+
+
 ## 场域
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">field</small>
 
 场域的本质是**关系**而**非结构**，其代表**社会生活**中的某个**子空间**， 由**相对独立的**规则，惯例，权力关系，目标等构成。同时他也是一个**竞争型市场**，通过调用各种类型的**资本**， 个体与群体在其中为争夺稀缺资源而斗争。
+
+布迪厄将场域视为[[#社会世界]]的子领域，
+
+
 
 
 
