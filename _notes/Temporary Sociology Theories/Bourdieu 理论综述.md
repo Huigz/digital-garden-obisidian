@@ -10,7 +10,7 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 
 因此，布迪厄的理论更倾向于一种 **有能动者存在的** 结构主义立场。布迪厄将自己的理论方向定位为 **建构主义者的结构主义** 或 **生成结构主义** <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">genetic structuralism</small>
 
-为了避免陷入主观与客观主义的对立中，布迪厄将关注点放在了其眼中 **能动**与**结构**辩证关系的结果：**实践** <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">practice</small> 上
+为了避免陷入主观与客观主义的对立中，布迪厄将关注点放在了其眼中 **能动**与**结构**辩证关系的结果：[[#实践]] <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">practice</small> 上
 
 ##### 实践
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">practice</small>
@@ -47,12 +47,11 @@ Pierre Bourdieu 的理论致力于解决社会学存在已久的 **客观主义�
 
 [[#惯习]]可以创造社会世界，也可以被社会世界所创造：
 
+![[Pasted image 20240824232050.png]]
 
-其中，以社会结构对个体的社会化视角来看，个体通过反复[[#实践]]，吸收模仿社会规范，价值。 这种社会化过程即 [[#惯习]]被社会世界所创造，其是 ==外部性的内部化== 的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structured structure</small>
+其中，以个体受到社会世界的社会化视角来看，个体吸收模仿社会规范，价值，形成名为[[#惯习]]的心理认知结构。 这种社会化过程即 [[#惯习]]被社会世界所建构，其是 ==外部性的内部化== 的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structured structure</small>
 
-而同时，[[#惯习]]又通过[[#实践]]，在生产着社会结构，即[[#惯习]]创造社会世界，其是==内部性的外部化==的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small>
-
-[[#实践]]作为[[#惯习]]与**社会世界**间的媒介，其实现了[[#惯习]]与**社会世界**间的双向作用。
+而同时，[[#惯习]]又通过[[#实践]]，再生产着，创造着社会世界，其是==内部性的外部化==的体现 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">structuring structure</small>
 
 ## 场域
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">field</small>
