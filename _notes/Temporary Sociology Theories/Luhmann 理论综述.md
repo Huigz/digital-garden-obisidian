@@ -63,6 +63,7 @@
 
 
 ### 分化
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">differentiation</small>
 
 分化指：存在于**系统与其环境之间**变异系统内的再生
 
@@ -97,7 +98,7 @@
 
 <div style="background-color:rgba(166, 177, 247,0.4);padding:20px;border-radius:5px"><span>💡</span><br><p>如位于中心的<b>总公司</b>对位于边缘的<b>分公司</b>的领导与管理</p></div>
 
-#### 功能系统的分化*
+#### 功能分化*
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">functional differentiation</small>
 
 最复杂的一种方式，**这种分化主导着现代社会**。
@@ -106,7 +107,16 @@
 
 <div style="background-color:rgba(166, 177, 247,0.4);padding:20px;border-radius:5px"><span>💡</span><br><p>如，汽车制造商在功能上划分的功能子系统：生产，财务，法务，规划，人力资源 等部门</p></div>
 
+功能分化系统是**相互依赖与相互独立**的复杂混合体。
 
+**依赖** ：如 规划部门需要财务部门的数据作为决断的要素
+**独立** ：体现于 只要财务的数据是准确的，规划部门并不需要理会财务系统的运行过程
 
+就[[#区隔分化]]来说，某个子系统的失灵并不会造成整体系统的崩溃，但对于[[#功能分化*]]来说，**失灵会威胁到整个系统**的运行。
+
+因此，复杂性的增加也会增加系统崩溃的风险；这种复杂性主要指 子系统**关系的复杂性**。
+
+### 符码
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">code</small>
 
 
