@@ -27,15 +27,19 @@
 
 社会行为理论作为功利主义行为理论的反驳，其强调了**文化的重要性**和**行动的自愿性**。
 
-### 单位行为 Unit Act 模型
+### 单位行为 Unit Act 模型 
 
 ![[Pasted image 20240908165840.png]]
 
 其拥有四个基本要素：
 1. 行动者 Actor
+	- 行动者主体
 2. 目标 Goals
+	- 行动者希望达成的目标状态
 3. 规范 Norms...
+	- 社会对个体的期待与要求，行为受社会规范限制束缚
 4. 环境 Situational Conditions
+	- 行为发生的具体环境，其限制行动者的选择和结果
 
 ## 系统理论
 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">체계이론</small>
