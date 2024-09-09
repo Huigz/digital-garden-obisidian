@@ -9,7 +9,7 @@
 1. 整合先前巨匠的理论 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">거장들의 이론 설계를 종합</small>
 	- 帕森斯整合了包括[[Durkheim 理论综述|涂尔干]]，[[Weber 理论综述|韦伯]]在内多名先前社会学家的理论，并将社会学研究的根本问题设定为：[[#社会秩序问题]]
 2. 整合**结构理论**和**行为理论** <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">구조이론 , 행위이론을 통합하려는 시도</small> 
-	- 行为理论具体化 
+	- [[社会行为理论|行为理论]]具体化 
 		- [[#单位行为 Unit Act 模型]]
 	- 结构功能主义-[[#系统理论]]
 	- 结构理论与行为理论的整合
@@ -23,7 +23,8 @@
 如果**包含利己心的社会行为**成为可能，那么说明社会已经存在着**共同规范，价值**，并通过这些规范和价值**社会才得以整合**。
 
 
-## 社会行为理论 사회적 행위 이론
+## 社会行为理论
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">사회적 행위 이론</small>
 
 社会行为理论作为功利主义行为理论的反驳，其强调了**文化的重要性**和**行动的自愿性**。
 
@@ -32,13 +33,14 @@
 ![[Pasted image 20240908165840.png]]
 
 其拥有四个基本要素：
-1. 行动者 Actor
+
+1. 行动者 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Actor</small> 🅐
 	- 行动者主体
-2. 目标 Goals
+2. 目标 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Goals</small> 🅶
 	- 行动者希望达成的目标状态
-3. 规范 Norms...
+3. 规范 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Norms</small> 🅸 
 	- 社会对个体的期待与要求，行为受社会规范限制束缚
-4. 环境 Situational Conditions
+4. 环境 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Situational Conditions</small> 🅻
 	- 行为发生的具体环境，其限制行动者的选择和结果
 
 ## 系统理论
@@ -97,12 +99,19 @@
 
 帕森斯认为，文化系统定义了最终目标 且 维持了社会运作与系统稳定。以生物学理论为近似，文化系统承担了如人体大脑相似的功能。如行动系统的层级结构
 
+#### 宏大理论
+
+可以看出，通过AGIL的功能性阐述，帕森斯区分了4种由功能分化的系统类型，并试图通过AGIL功能性阐述社会世界存在的所有类型的系统，如[[#单位行为 Unit Act 模型]]，又如[[#AGIL功能对应的系统]]以及其子系统[[#社会系统内部分化的子系统]]。其将围观的单位行为与宏观的社会世界系统结构一并整合了起来。
 
 ## 近代性理论
 
-根据帕森斯为[[#文化系统的重要性|文化系统赋予的重要性]]，帕森斯认为：
+帕森斯认为，近代社会的社会变化是由 **进化的分化过程** 主导的。
 
-可以通过对比一些关键类型的**价值导向**来区分不同的社会。
+> 社会或社会子系统为了对环境有更大的适应能力和观测能力，引发的进化分化
+
+### 行为价值导向
+
+根据帕森斯为[[#文化系统的重要性|文化系统赋予的重要性]]，帕森斯认为，可以通过对比一些关键类型的行为**价值导向**来区分不同的社会。
 
 - 感情性 vs 感情中立性
 - 集体指向 vs 自我指向
