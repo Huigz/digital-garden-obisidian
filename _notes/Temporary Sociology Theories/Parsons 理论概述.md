@@ -9,7 +9,7 @@
 1. 整合先前巨匠的理论 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">거장들의 이론 설계를 종합</small>
 	- 帕森斯整合了包括[[Durkheim 理论综述|涂尔干]]，[[Weber 理论综述|韦伯]]在内多名先前社会学家的理论，并将社会学研究的根本问题设定为：[[#社会秩序问题]]
 2. 整合**结构理论**和**行为理论** <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">구조이론 , 행위이론을 통합하려는 시도</small> 
-	- [[社会行为理论|行为理论]]具体化 
+	- [[#社会行为理论|行为理论]]具体化 
 		- [[#单位行为 Unit Act 模型]]
 	- 结构功能主义-[[#系统理论]]
 	- 结构理论与行为理论的整合
@@ -43,6 +43,7 @@
 4. 环境 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Situational Conditions</small> 🅻
 	- 行为发生的具体环境，其限制行动者的选择和结果
 
+行动者有意义的追求目标，并依据规范和环境的影响，改变其意义或手段受到限制
 ## 系统理论
 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">체계이론</small>
  
@@ -109,6 +110,18 @@
 
 > 社会或社会子系统为了对环境有更大的适应能力和观测能力，引发的进化分化
 
+除了分化外，帕森斯还区分了近代社会其他三种， 总共**四种发达(进化)倾向**
+
+1. 分化 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">분화</small> <small style="padding:3px;border-radius:5px;color:purple">主导发达倾向</small>
+	- 为了更强的适应能力，系统的分化作为近代社会主导的进化倾向
+2. 改善 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">향상</small>
+	- 一般行动者可以使用的手段和资源得到大幅改善
+3. 包容 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">포용</small>
+	- 相比于排外，异化的社会共同体，更多的身份， 团体得以被接纳，其与价值一般化倾向有关
+4. 价值一般化 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">가치 일반화</small>
+	- 随着有拘束力的社会规范的普遍化，一般化，普遍主义(价值的一般化)将取缔传统社会基于血缘，家族的特殊主义
+
+而对于行为价值的改变，如下
 ### 行为价值导向
 
 根据帕森斯为[[#文化系统的重要性|文化系统赋予的重要性]]，帕森斯认为，可以通过对比一些关键类型的行为**价值导向**来区分不同的社会。
@@ -123,18 +136,23 @@
 
 ## 对帕森斯的评价
 
-### 파슨스 이론이 갖는 긍정적 특징
+### 肯定的评价 🫡
 
-- 고전의 독해에 기초한 것이다.
-- 체계적이며 일반이론에 통합돼 있다.
-- 근대성이 의미를 상실하게 한다는 견해에 대  한 강한 반론을 전개한다.
-- 문화와 행위 간의 연결에 관한 이론적 모델을   제공한다.
-### 파슨스 이론의 문제점과 그에 대한 논박
+> 以古典社会学理论为基石，整合了系统和一般行为理论，强力反驳近代社会**意义**的丧失，提供了文化和行为间的链接
 
-- 사회 전반이 공통의 가치유형에 헌신한다는   점을 증명하기보다는 전제하기 때문에 보수  적이라는 논박을 받는다. 즉 그의 이론은 ‘규  범적 기능주의’라는 것이다.
-- 이론이 고도로 추상적이어서 구체적인 경험적   현상의 설명에 약점이 있다.
-- 그의 이론이 인간의 창조성과 행위역량을 간  과한다는 논박이 있다. ‘과도사회화된 인간   개념(oversocialized concept of man)’, ‘문화적   꼭두각시(cultural dope)’ 등이 그러하다.
-- 근대성에 대한 파슨스의 열렬한 옹호는 그가   강조하는 보편적 가치의 수용이 사실은 그  렇게 원활하지 못했다는 점을 간과한다
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">고전의 독해에 기초한 것이다.</small>
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">체계적이며 일반이론에 통합돼 있다.</small>
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">근대성이 의미를 상실하게 한다는 견해에 대  한 강한 반론을 전개한다.</small>
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">문화와 행위 간의 연결에 관한 이론적 모델을   제공한다.</small>
+
+### 批判 🤨
+
+> 其假设社会致力于共同价值，被批判为“规范功能主义”；并且理论高度抽象，无法很好解释具体经验行为；认为理论过于结构化忽视了个人的创造能动性；对于近代行社会的普遍价值描述不完全。
+
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">사회 전반이 공통의 가치유형에 헌신한다는   점을 증명하기보다는 전제하기 때문에 보수  적이라는 논박을 받는다. 즉 그의 이론은 ‘규  범적 기능주의’라는 것이다.</small>
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">이론이 고도로 추상적이어서 구체적인 경험적   현상의 설명에 약점이 있다.</small>
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">그의 이론이 인간의 창조성과 행위역량을 간  과한다는 논박이 있다. ‘과도사회화된 인간   개념(oversocialized concept of man)’, ‘문화적   꼭두각시(cultural dope)’ 등이 그러하다.</small>
+- <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">근대성에 대한 파슨스의 열렬한 옹호는 그가   강조하는 보편적 가치의 수용이 사실은 그  렇게 원활하지 못했다는 점을 간과한다</small>
 
 
 
