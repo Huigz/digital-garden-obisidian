@@ -30,7 +30,7 @@
 
 ### 单位行为 Unit Act 模型 
 
-![[Pasted image 20240908165840.png]]
+![](unitact.png)
 
 其拥有四个基本要素：
 
@@ -60,21 +60,21 @@
     - 潜在模式维持 🅻 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">잠재적 패턴 유지</small>
         - 提供，维持，更新对个体的激励，以及创造和维持这种文化模式
 
-#### AGIL功能对应的系统
+#### AGIL功能对应的一般行为系统
 
 <small style="padding:3px;border-radius:5px;">*各系统赋予的主要功能由紫色tag表示</small>
 
-- 行动有机体 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">행동유기체</small> <small style="padding:3px;border-radius:5px;color:purple">지성</small>
+- 行动有机体 🅐  <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">행동유기체</small> <small style="padding:3px;border-radius:5px;color:purple">지성</small>
 	- 行动者的物理(生物)生存
-- 人格系统 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">인성 체계</small> <small style="padding:3px;border-radius:5px;color:purple">동기</small>
+- 人格系统 🅶 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">인성 체계</small> <small style="padding:3px;border-radius:5px;color:purple">동기</small>
 	- 行动者的需求构成 （目标达成的动机）
-- 社会系统 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">사회 체계</small> <small style="padding:3px;border-radius:5px;color:purple">상호작용</small>
+- 社会系统 🅸 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">사회 체계</small> <small style="padding:3px;border-radius:5px;color:purple">상호작용</small>
 	- 行动者间的相互作用 
 	- <u>依据对身份，角色的定义，整合行动者</u>
 		- 由 **角色，角色的结构化集合体** <- 控制角色以及集合体的**规范** <- 控制规范的分化与关系的 **价值** 构成
 		 - 角色指：个人 与 **与他人相互作用** 时 **对他人行为的期待**
 		 - 角色是社会结构中最重要的单位
-- 文化系统 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">문화체계</small> <small style="padding:3px;border-radius:5px;color:purple">의미</small>
+- 文化系统 🅻 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">문화체계</small> <small style="padding:3px;border-radius:5px;color:purple">의미</small>
 	- 提供行动者的**价值体系**
 		- 文化系统提供的**共同价值协议**是维持社会秩序的核心
 	- 主要领域
@@ -101,7 +101,7 @@
 
 #### 宏大理论
 
-可以看出，通过AGIL的功能性阐述，帕森斯区分了4种由功能分化的系统类型，并试图通过AGIL功能性阐述社会世界存在的所有类型的系统，如[[#单位行为 Unit Act 模型]]，又如[[#AGIL功能对应的系统]]以及其子系统[[#社会系统内部分化的子系统]]。其将围观的单位行为与宏观的社会世界系统结构一并整合了起来。
+可以看出，通过AGIL的功能性阐述，帕森斯区分了4种由功能分化的系统类型，并试图通过AGIL功能性阐述社会世界存在的所有类型的系统，从[[#单位行为 Unit Act 模型]]开始，到提出[[#AGIL功能对应的一般行为系统]]以及其[[#社会系统内部分化的子系统]]。其将围观的单位行为与宏观的社会世界系统结构一并整合了起来。
 
 ## 近代性理论
 
