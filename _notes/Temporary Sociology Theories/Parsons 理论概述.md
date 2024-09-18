@@ -43,7 +43,7 @@
 4. 环境 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Situational Conditions</small> 🅻
 	- 行为发生的具体环境，其限制行动者的选择和结果
 
-行动者有意义的追求目标，并依据规范和环境的影响，改变其意义或手段受到限制
+行动者<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Actor</small>依据规范<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Norms</small>和环境<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Situation Conditions</small>所限制的手段<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Means</small>追求目标<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Goal</small>
 ## 系统理论
 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">체계이론</small>
  
