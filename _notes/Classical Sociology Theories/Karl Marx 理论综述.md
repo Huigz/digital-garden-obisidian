@@ -4,19 +4,22 @@
 #马克思 #古典社会学 #社会学理论
 ## 微观理论
 
-### 个性 
+### 个性
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">human being</small> <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Species-Being</small> <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Homo Faber</small>
 
+<small style="padding:3px;border-radius:5px;">**human being为更宽泛的用于，指代人类的固有特性；Species-Being即 类存在；Homo Faber 直译为 身为制造者的人，参考章节'劳动'</small>
 
-对个体固有特性（即存在个性）的执着通常被视为保守主义的，即如果将社会问题归因为人性的特性，那么最终改变将失去意义。但马克思对人性的讨论，并非是辨明人性是否存在，以及其本质，而是讨论人性的类别<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">kind of nature</small>，即人性是固存不变的还是动态开放性的？
+对人类固有特性（即存在个性）的执着通常被视为保守主义的，即如果将社会问题归因为人性的特性，那么最终改变将失去意义。但马克思对人性的讨论，并非是辨明人性是否存在，以及其本质，而是讨论人性的类别<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">kind of nature</small>，即人性是固存不变的还是动态开放性的？
 
-马克思认为，人性既有其静态的普遍性也有其依存于社会的动态开放性，个性并非是单向受社会环境的影响所改变，同时存在着一种普遍价值（个性）改变着社会并使社会存续，或表明了社会应该如何被改变。这种区分于动物的，人性的人类潜能，或本质，以“类存在”代称，是理解和引导社会结构的起源。
+马克思认为，人性既有其静态的普遍性也有其依存于社会的动态开放性，个性并非是单向受社会环境的影响所改变，同时**存在着一种普遍价值（个性）改变着社会并使社会存续**，或表明了社会应该如何被改变。这种区分于动物的，人性的人类潜能，或本质，以“类存在”代称，是理解和引导社会结构的起源。
 
-马克思的宏观社会学理论，如资本主义的异化，阶级冲突都是建立在对人类潜能的预设之上。
+马克思的宏观社会学理论，如资本主义的异化，阶级冲突都是建立在对人类潜能([[#个性]])的预设之上。
 
 参考：[马克思主义与个性](https://marxists.org/chinese/reference-books/marxism-and-human-nature-1998/09.htm#1)
 
 
 ### 劳动
+<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Homo Faber</small>
 
 马克思认为，类存在/人类潜能与劳动 紧密相关
 
@@ -38,8 +41,7 @@
 但是在资本主义下，劳动的价值被刻意的削弱了 <small style="padding:3px;border-radius:5px;">*Labour -> Nobody cares about its value</small>
 
 ### 异化
-<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">소외</small>
-<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Alienation</small>
+<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">소외</small> <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Alienation</small>
 
 异化指资本主义条件下，我们与自身劳动的独特关系，其指劳动中客体化<small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">objectification</small>的缺失。
 
