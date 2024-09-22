@@ -3,7 +3,7 @@
 
 #古典社会学 #韦伯 #社会学理论 
 
-<iframe width='853' height='480' src='https://embed.coggle.it/diagram/Zu-Zqn7OTta-RndU/d52092cf48b089d45025c42b6a7708bfe91b1b4d1bdea794cd16ca36c9f9a34f' frameborder='0' allowfullscreen></iframe>
+
 
 ## 历史与社会学
 
@@ -146,7 +146,11 @@
 ### 实质理性
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Substantive Rationality</small>
 
-类似实践理性，直接将行动安排进一套价值中。
+类似实践理性，但其直接将行动安排进**一套价值**中。(参考[[#引入生活的理性]])
+
+行动与价值相关联，指价值的涉及范围决定了行动手段，即价值限定了目标的手段选择范围。
+
+[[Parsons 理论概述|帕森斯]]在他的unit act单位行动理论中，参考整合了此处的实质理性。
 
 > 涉及在<u>一定价值体系中</u>选择 **达到目的的手段**。
 
@@ -154,6 +158,8 @@
 <small style="background-color:rgba(166, 177, 247, 0.7);padding:3px;border-radius:5px;color:black">Formal Rationality</small>
 
 与实践理性相比，**实践理性**与<u>个体实用主义，利己主义</u>相关，而**形式理性**与==普遍使用的规则，法律，法规==相关。
+
+即其是外在与个体，社会结构层面上的，限制个体行动的规则等。
 
 <div style="background-color:rgba(166, 177, 247,0.4);padding:20px;border-radius:5px"><span>💡</span><br><p>如对于资本主义理性而言，形式化法律和科层化行政是其具体化，制度化，超越个体的形式，理性嵌入社会结构中并与外在与他们的个人相对抗。</p></div>
 #### 形式理性的基本特征
