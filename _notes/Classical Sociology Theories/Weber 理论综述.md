@@ -3,7 +3,7 @@
 
 #古典社会学 #韦伯 #社会学理论 
 
-
+![](/assets/Weber.svg)
 
 ## 历史与社会学
 
@@ -92,7 +92,7 @@
 
 韦伯认为，科层制是法理型权威运作最纯粹的类型。
 
-⚠️此处的“科层制”在社会学中更经常称为**官僚制**，韩语对照翻译为官僚制。
+<small style="padding:3px;border-radius:5px;color:purple">⚠️此处的“科层制”在社会学中更经常称为"官僚制"，韩语对照翻译为官僚制 관료제。</small>
 
 #### 理想类型的科层制
 <small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">관료제</small>
