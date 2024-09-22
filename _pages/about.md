@@ -1,9 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: MindMap
+permalink: /mindmap
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍

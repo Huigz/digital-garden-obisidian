@@ -3,6 +3,8 @@
 
 #古典社会学 #韦伯 #社会学理论 
 
+<iframe width='853' height='480' src='https://embed.coggle.it/diagram/Zu-Zqn7OTta-RndU/d52092cf48b089d45025c42b6a7708bfe91b1b4d1bdea794cd16ca36c9f9a34f' frameborder='0' allowfullscreen></iframe>
+
 ## 历史与社会学
 
 韦伯认为，历史学与社会学是彼此需要的，其中
