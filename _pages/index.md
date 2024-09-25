@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Welcome! This is Sociology Theories Garden 🌱
-
+<p><small>如果你在找SKKU논자시 통계시험相关的资料，请<a href="/assets/pdf/2024_SKKU Sociology QE Statistic Note.pdf">点击此处下载</a></small></p>
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   这里包含了 主要的现代，古典社会学理论 并标识了 专有名词的韩语版本<small style="background-color:rgba(218, 247, 166, 0.7);padding:3px;border-radius:5px;color:black">한국어 버전</small> 翻译<br>
   并且，本网站启用了 <span style="font-weight: bold">双向链接</span> 技术， 您可以点击链接跳转到各词条的详情部分，轻松发现各理论，知识条目之间的关联。<br>  
